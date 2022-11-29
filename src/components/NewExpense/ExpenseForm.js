@@ -29,7 +29,7 @@ const ExpenseForm = () => {
     };
 
     console.log(expenseData);
-  }
+  };
 
   return (
     <form onSubmit={submitHandler}>
